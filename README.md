@@ -10,5 +10,6 @@ Depending on your machine. This script will take several minutes to complete...
 
 ![Screen Shot 2024-05-22 at 7 32 41 PM](https://github.com/cone-a/Metabolism-Locomotion-Analysis/assets/86271932/09f42b29-2b78-419d-be4f-dc5aeb634903)
 
-![Screen Shot 2024-05-22 at 9 13 36 PM](https://github.com/cone-a/Metabolism-Locomotion-Analysis/assets/86271932/386eb042-79c9-4e25-bce7-9a2799c7e67d)
+
+![Screen Shot 2024-05-22 at 9 22 24 PM](https://github.com/cone-a/Metabolism-Locomotion-Analysis/assets/86271932/e8862c66-397a-4a5d-bd69-db6296f50bc9)
 
