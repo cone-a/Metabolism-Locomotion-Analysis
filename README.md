@@ -7,3 +7,5 @@ Input the locomotion file into script and run the analysis. There is a circadian
 ![Screen Shot 2024-05-22 at 7 32 41 PM](https://github.com/cone-a/Metabolism-Locomotion-Analysis/assets/86271932/09f42b29-2b78-419d-be4f-dc5aeb634903)
 
 ![Screen Shot 2024-05-22 at 9 13 36 PM](https://github.com/cone-a/Metabolism-Locomotion-Analysis/assets/86271932/386eb042-79c9-4e25-bce7-9a2799c7e67d)
+
+Depending on your machine. This script will take several minutes to complete...
